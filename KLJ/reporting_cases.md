@@ -88,7 +88,7 @@ Juror 1: 0x...
 
 Related Cases: KLJ AA/BB, KLJ CC/DD
 
-__doge, cat, curated lists__
+*doge, cat, curated lists*
 ```
 
 ## Resources
@@ -103,7 +103,7 @@ name them as follows:
 When you want to create a report feel free to copy the following template:
 
 ```markdown
-# KLJ XX/YY - Case Name
+# KLJ YY/XX - Case Name
 
 ## Case Summary
 
