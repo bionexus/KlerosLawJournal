@@ -91,7 +91,7 @@ Related Cases: KLJ AA/BB, KLJ CC/DD
 __doge, cat, curated lists__
 ```
 
-## Resoures
+## Resources
 Sometimes it is neccessary to attach images or other files to your reports. For this purpose there is a resources folder in
 which you can store files belonging to your report. Every resource gets a number starting from 1 for every new case. You need
 your case number and resource number to name the resource files correctly. So when your case "KLJ 18/4" needs three images you
