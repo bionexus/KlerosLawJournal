@@ -3,9 +3,9 @@
 This directory contains all reported cases. There is a sub directory for every month (e. g. "2018_07" for July 2018). In those 
 directories every case gets its own markdown file.
 
-The cases are numbered chronologically every year. So the case "KLJ 3/18" is the third case reported in the year 2018 and
-the case "KLJ 490/19" is the 490th case reported in 2019. The file names have to match the case number. For example the file
-of the first case mentioned would be "KLJ_3_18.md". The month in which a case is decided does not affect its case number.
+The cases are numbered chronologically every year. So the case "KLJ 18/3" is the third case reported in the year 2018 and
+the case "KLJ 19/490" is the 490th case reported in 2019. The file names have to match the case number. For example the file
+of the first case mentioned would be "KLJ_18_3.md". The month in which a case is decided does not affect its case number.
 
 **Pilot cases are referred to not as "KLJ" cases but as "KLJP" cases!**
 
@@ -15,7 +15,7 @@ describes the case. This heading can also be reffered to as "case name" Therefor
 look as follows:
 
 ```markdown
-# KLJ XX/YY - Case Name
+# KLJ YY/XX - Case Name
 ```
 
 The heading is followed by an overview section that gives some general information on the case. The exact information that
@@ -31,7 +31,7 @@ With all this in mind the code of the overview section is going to look somethin
 ```markdown
 ## Case Summary
 
-General Information | Case XX/YY 
+General Information | Case YY/XX 
 --- | ---
 Court | General
 Jurors | 5
@@ -91,6 +91,14 @@ Related Cases: KLJ AA/BB, KLJ CC/DD
 __doge, cat, curated lists__
 ```
 
+## Resoures
+Sometimes it is neccessary to attach images or other files to your reports. For this purpose there is a resources folder in
+which you can store files belonging to your report. Every resource gets a number starting from 1 for every new case. You need
+your case number and resource number to name the resource files correctly. So when your case "KLJ 18/4" needs three images you
+name them as follows:
+
+"18_4_res_1.png", "18_4_res_2.png" and "18_4_res_3.png".
+
 ## Template
 When you want to create a report feel free to copy the following template:
 
@@ -99,7 +107,7 @@ When you want to create a report feel free to copy the following template:
 
 ## Case Summary
 
-General Information | Case XX/YY 
+General Information | Case YY/XX 
 --- | ---
 Court | 
 Jurors | 
