@@ -31,6 +31,6 @@ community. Therefore, it could be that the decision will be overruled some time 
 
 ## Further Information
 
-[Link to the case](https://juror.kleros.io/cases/9)
+Dispute Contract: 0xb7faddf3ecd2402a7e48cea6d2637d90eeb5a7e6
 
 Keywords: *offensive, pornography, moral*
