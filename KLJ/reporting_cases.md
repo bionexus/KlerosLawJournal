@@ -1,7 +1,6 @@
 # KLJ Reports
 ## Directory Structure
-This directory contains all reported cases. There is a sub directory for every month (e. g. "2018_07" for July 2018). In those 
-directories every case gets its own markdown file.
+This directory contains all reported cases. 
 
 The cases are numbered chronologically every year. So the case "KLJ 18/3" is the third case reported in the year 2018 and
 the case "KLJ 19/490" is the 490th case reported in 2019. The file names have to match the case number. For example the file
@@ -35,7 +34,7 @@ General Information | Case YY/XX
 --- | ---
 Court | General
 Jurors | 5
-Date | June 20th 2004
+First reported | June 20th 2004
 
 **Cats are not doges.**
 ```
@@ -111,7 +110,7 @@ General Information | Case YY/XX
 --- | ---
 Court | 
 Jurors | 
-Date | 
+First reported | 
 
 ## Facts
 
